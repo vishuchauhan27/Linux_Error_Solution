@@ -54,8 +54,8 @@ After completing the above steps, attempt the upgrade again:
 ```bash
 sudo apt full-upgrade
 ```
-### Concluaion 😄
-Encountering the firmware-sof-signed error during a Kali Linux upgrade can be frustrating, but it is generally manageable with the right troubleshooting steps. By following the outlined procedures—updating package lists, fixing broken packages, removing and reinstalling the problematic firmware, cleaning the package cache, and inspecting logs for specific errors—you can effectively resolve the issue.
+### Conclsaion 😄
+** Encountering the firmware-sof-signed error during a Kali Linux upgrade can be frustrating, but it is generally manageable with the right troubleshooting steps. By following the outlined procedures—updating package lists, fixing broken packages, removing and reinstalling the problematic firmware, cleaning the package cache, and inspecting logs for specific errors—you can effectively resolve the issue.
 
 If the error persists even after these interventions, forcing the installation of the package using dpkg may provide a workaround. Always ensure to keep your system updated by running sudo apt full-upgrade after resolving issues to maintain optimal performance and security.
 
