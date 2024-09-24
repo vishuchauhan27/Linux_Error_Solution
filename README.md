@@ -7,13 +7,7 @@ During an attempt to upgrade Kali Linux, you might encounter an error related to
 
 This issue typically arises due to broken packages or conflicts with the `firmware-sof-signed` package during the upgrade process.
 
-<style>
-.error {
-    color: red;
-}
-</style>
-
-<span class="error">**Error:**</span>
+**Error**: ❗
 
  `/tmp/apt-dpkg-install-eENCjw/02-firmware-sof-signed_2024.06-1_all.deb`
 
