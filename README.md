@@ -62,7 +62,7 @@ If the error persists even after these interventions, forcing the installation o
 Should you continue to face challenges, consulting the Kali Linux community forums or official documentation can provide additional insights and assistance.
 
 --This Method is working in my case
->  I hope your work will also go well if you encountered this error Good luck :) >
+>> I hope your work will also go well if you encountered this error Good luck :) <<
 
   Smyle - 😁
   
